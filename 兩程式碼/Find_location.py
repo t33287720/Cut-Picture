@@ -18,6 +18,9 @@ w1, h1 = -1, -1
 w2, h2 = -1, -1
 output = None
 
+# 確保第一張圖片存在
+img = cv2.imread('0.jpg')
+
 # 讀取圖像
 img = cv2.imread('0.jpg') # 圖片名稱
 point = img
