@@ -27,12 +27,12 @@ x2, y2 = -1, -1
 output = None
 show_pic = 1 # 裁切後圖片顯示
 
-# 讀取圖像
-img_find = cv2.imread('messi5.jpg') # 圖片名稱
-point = img_find
-
 # 確保第一張圖片存在
 img = cv2.imread(f'{i}.jpg')
+
+# 讀取圖像
+img_find = cv2.imread('0.jpg') # 圖片名稱
+point = img_find
 
 # 定義回傳函數
 def click_event(event, x, y, flags, param):
