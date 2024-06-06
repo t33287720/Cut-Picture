@@ -20,6 +20,8 @@
 
 按Enter後開始定時裁切並另存檔案(定時10秒)
 
+![image](https://github.com/t33287720/Cut-Picture/assets/150265747/2cf62e98-e59f-4762-9fb2-fa27f9cfca08)
+
 方法二
 -
 執行兩程式碼-Find_location尋找位置
@@ -27,6 +29,8 @@
 以output 確認裁切範圍
 
 按Enter關閉視窗
+
+![image](https://github.com/t33287720/Cut-Picture/assets/150265747/88c5dd36-d23e-41c5-8eeb-c2600f1bbd99)
 
 後執行兩程式碼-Cut_and_store
 
