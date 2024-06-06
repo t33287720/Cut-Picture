@@ -19,7 +19,7 @@ w2, h2 = -1, -1
 output = None
 
 # 讀取圖像
-img = cv2.imread('Lena.jpg') # 圖片名稱
+img = cv2.imread('0.jpg') # 圖片名稱
 point = img
 
 # 定義回傳函數
